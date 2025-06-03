@@ -21,7 +21,6 @@
         "Spread Love and Positivity",
         "Every day is all there is",
         "The world is simple, and life is too.",
-        "Live like you're dancing",
         "You paid for the yard; go stand in it",
         "My power is immeasurably great.",
         "Life is a series of moments. Be present.",
@@ -46,7 +45,7 @@
         "There are no wrong decisions",
         "You cannot see your reflection in boiling water",
         "The future is uncertain. Live immediately.",
-        "Learn to proceed without certainty",
+        "Proceed without certainty",
         "Nothing will happen unless you first initiate a process of cause and effect",
         "Be better every day", 
         "Don't put it down, put it away",
@@ -57,7 +56,6 @@
         "Amor Fati",
         "Memento Mori",
         "The glass is already broken",
-        "Tell Stephanie she's the cutest",
         "You can do anything you want to",
         "Difficulties strengthen the mind as labor strengthens the body",
         "A gem cannot be polished without friction, nor a man without trials",
@@ -76,6 +74,7 @@
     "morning": [
         "Make your bed, make your life",
         "Don't put it down, put it away",
+        "Master the morning, master your life",
         "The morning is your most precious time",
         "One focused morning can move your life forward a month",
         "Learning to master mornings means learning to master life",
@@ -86,6 +85,7 @@
         "Did you do your Duo?",
         "Take a moment to be grateful for today",
         "Don't put it down, put it away",
+        "Plan your work and work your plan",
         "Wear your retainer!"
     ]
 }
