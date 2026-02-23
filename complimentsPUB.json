@@ -13,13 +13,12 @@
         "You will never regret \nbeing kind",
         "Every day is all there is",
         "Follow your plan, \nnot your mood",
-        "Chop wood. Carry water.",
+        "Chop wood. \nCarry water.",
         "Don't put it down, \nput it away",
         "Dream big. \nStart small. \nAct now.",
         "Look your best, \nfeel your best",
-        "Be better every day", 
         "Do something everyday",
-        "Remember when you wanted \neverything you have today",
+        "Remember when you \nwanted everything \nyou have today",
         "Amor Fati",
         "Memento Mori",
         "Happiness is a choice",
@@ -31,8 +30,9 @@
               
     ],
     "evening": [    
-        "Take a moment to be grateful for today",
-        "Don't put it down, put it away",
-        "Plan your work and work your plan"
+        "Take a moment \n
+        to be grateful \nfor today",
+        "Don't put it down, \nput it away",
+        "Plan your work \nwork your plan"
     ]
 }
